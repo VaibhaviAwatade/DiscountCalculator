@@ -1,0 +1,56 @@
+*{
+    color: white;
+    margin-bottom: 40px;
+}
+body{
+    background-color: rgb(236, 200, 131);
+}
+.container{
+    width: 800px;
+    background-color: #0d5c63;
+    margin-left: 250px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+h2 {
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Righteous', cursive;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    font-size: x-large;
+    margin-left: 20px;
+}
+form{
+    margin-left: 15px; 
+    font-size: x-large;
+    font-weight: bolder;
+}
+input{
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: #0d5c63;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#labelBill{
+    margin-right: 78px;
+}
+
+
+#calculator:hover{
+    background-color: burlywood;
+}
+#total{
+    text-align: centers;
+}
+#list{
+    margin-left: 650px;
+    
+}
